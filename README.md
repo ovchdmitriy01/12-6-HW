@@ -39,10 +39,10 @@
 
 *Приложите скриншоты конфигурации, выполнения работы: состояния и режимы работы серверов.*
 
-![image]()
-![image]()
-![image]()
-![image]()
-![image]()
+![image](https://github.com/ovchdmitriy01/12-6-HW/blob/main/12-6-1.png)
+![image](https://github.com/ovchdmitriy01/12-6-HW/blob/main/12-6-2.png)
+![image](https://github.com/ovchdmitriy01/12-6-HW/blob/main/12-6-3.png)
+![image](https://github.com/ovchdmitriy01/12-6-HW/blob/main/12-6-4.png)
+![image](https://github.com/ovchdmitriy01/12-6-HW/blob/main/12-6-5.png)
 
 ---
